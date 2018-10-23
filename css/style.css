@@ -41,7 +41,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #7bc3d1;
+	color: #EC7063;
 }
 ul, ol {
 	list-style: none;
@@ -73,7 +73,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #7bc3d1;
+	background: #EC7063;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -94,14 +94,14 @@ hr {
 	padding: 10px 0;
 }
 .navbar-custom .navbar-brand {
-	font-weight: 600;
+	font-weight: 700;
 }
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
 }
 .navbar-custom .navbar-brand .navbar-toggle {
 	padding: 4px 6px;
-	font-size: 16px;
+	font-size: 18px;
 	color: #fff;
 }
 .navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
@@ -119,13 +119,13 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #7bc3d1;
+	color: #EC7063;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #7bc3d1;
+	color: #EC7063;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
@@ -142,7 +142,7 @@ hr {
 	border-color: #fff;
 	padding: 10px 20px;
 	margin: 0;
-	font-size: 16px;
+	font-size: 18px;
 	border-radius: 0;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
@@ -159,8 +159,8 @@ hr {
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	color: #fff;
-	background-color: #7bc3d1;
-	border-color: #7bc3d1;
+	background-color:#EC7063;
+	border-color:#EC7063;
 }
 .btn-primary i.fa {
 	margin-right: 10px;
@@ -189,7 +189,7 @@ hr {
 	background: #f6f6f6;
 }
 #about .about-text {
-	margin-left: 10px;
+	margin-left: 5px;
 }
 #about img {
 	border-radius: 50%;
@@ -198,13 +198,13 @@ hr {
 	display: inline-block;
 }
 #about p {
-	margin-top: 20px;
-	margin-bottom: 30px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 /* Skills Section */
 #skills {
 	padding: 100px 0;
-	background: #7bc3d1;
+	background: #EC7063;
 }
 #skills h2 {
 	color: #fff;
@@ -270,7 +270,7 @@ ol.type li {
 	margin-left: 20px;
 }
 ol.type li a {
-	background: #7bc3d1;
+	background: #EC7063;
 	color: #fff;
 	padding: 6px 14px;
 }
@@ -502,7 +502,7 @@ ol.type li a:hover {
 }
 .timeline .timeline-heading h4.subheading {
 	text-transform: none;
-	color: #629ca7;
+	color: #EC7063;
 	font-size: 20px;
 }
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
@@ -512,7 +512,7 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
-	background: #7bc3d1;
+	background: #EC7063;
 }
 #contact h2 {
 	color: #fff;
@@ -629,7 +629,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #a0a5a5;
 }
 #footer a:hover {
-	color: #7bc3d1;
+	color: #EC7063;
 }
 
 /* Media Queries */
